@@ -1,6 +1,6 @@
 # express-eta-template
 
-A template I use for some projects. God, I really should've made this sooner. Anyway, it's pretty opinionated, so only use it if you 100% agree with me!
+A template I use for some projects. I really should've made this sooner. Anyways, it's pretty opinionated, so only use it if you 100% agree with me!
 
 Some things I took care of:
 
