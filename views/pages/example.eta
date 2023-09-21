@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Example page</title>
+  <style>body { font-family: sans-serif }</style>
+</head>
+
+<body>
+  <h1>This is an example page! 👋</h1>
+  <p>Read <code>README.md</code> in the root of this repository to learn more. 😁</p>
+</body>
+
+</html>
