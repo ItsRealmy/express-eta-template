@@ -10,7 +10,7 @@ Some things I took care of:
 - .env file loading (via `dotenv`)
 - Cookie parsing (via `cookie-parser`)
 - Fancy console log colors (via `colors`)
-- Starting code
+- Example code
 - Directory structure the way I like it!
 
 What you should do:
